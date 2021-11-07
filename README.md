@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-<!--
-**r-fsantos/r-fsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Renato F S Júnior. Software Engineer. I do backend development at [Flux](https://flux.com.br) 🧱💻
+---
 
-Here are some ideas to get you started:
+- 🔭 I'm working hard to improve my coding skills, focusing in Clean Code, SOLID and Clean Architecture. 
+- 🌱 Also currently learning C, Python, SQL databases, and The All Mighty Linux 🐧.
+- 🧑‍🎓 Taking the 42Cursus | Software Engineering at [42SP](https://www.42sp.org.br) | [42Network](https://42.fr/en/network-42/).
+- ⚡ Fun facts: Although I enjoy to invest hours coding, I like a lot to play soccer (for the record I'm better than Neymar Jr, Messi and CR7 all together); Also like to just go out and do some street running in a Forest Gump way of living 🏃‍♂️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stats
+---
+
+<div align="Center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-fsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-fsantos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
