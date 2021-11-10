@@ -6,7 +6,7 @@
 - 🔭 I'm working hard to improve my coding skills, focusing in Clean Code, SOLID and Clean Architecture. 
 - 🌱 Also currently learning C, Python, SQL databases, and The All Mighty Linux 🐧.
 - 🧑‍🎓 Taking the 42Cursus | Software Engineering at [42SP](https://www.42sp.org.br) | [42Network](https://42.fr/en/network-42/).
-- ⚡ Fun facts: Although I enjoy to invest hours coding, I like a lot to play soccer (for the record I'm better than Neymar Jr, Messi and CR7 all together); Also like to just go out and do some street running in a Forest Gump way of living 🏃‍♂️.
+- ⚡ Fun facts: Although I enjoy to invest hours coding, I like a lot to play soccer (for the record I'm better than Neymar Jr, Messi and CR7 all together); Also like to just go out and do some street running in a very Forest Gump way 🏃‍♂️.
 
 ### My Stats
 ---
