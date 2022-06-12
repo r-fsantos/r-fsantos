@@ -1,6 +1,6 @@
 ### Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-#### Renato F S Júnior. Software Engineer. I do backend development at [Flux](https://flux.com.br) 🧱💻
+#### Renato F S Júnior. Software Engineer. I'm currently an iOS Developer at [idwall](https://idwall.co/) 🧱💻
 ---
 
 - 🔭 I'm working hard to improve my coding skills, focusing in Algorithms and Data Structures, Clean Code, SOLID and Architecture Patterns. 
